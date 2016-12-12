@@ -1,0 +1,37 @@
+{
+  "name": "is-regalia",
+  "version": "1.0.0",
+  "description": "Checks whether an object is regalia (see package regalia)",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "standard",
+    "unit": "ava",
+    "test": "npm run lint && npm run unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightyiam/is-regalia.git"
+  },
+  "keywords": [
+    "regalia",
+    "symbol",
+    "constants",
+    "assert",
+    "check"
+  ],
+  "author": "Shahar Or <mightyiampresence@gmail.com> (mightyiam)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mightyiam/is-regalia/issues"
+  },
+  "homepage": "https://github.com/mightyiam/is-regalia#readme",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "standard": "^8.6.0"
+  },
+  "dependencies": {
+    "is-empty-object": "^1.1.1",
+    "is-plain-object": "^2.0.1",
+    "symbol-description": "^1.0.0"
+  }
+}
