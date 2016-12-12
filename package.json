@@ -1,6 +1,6 @@
 {
   "name": "is-regalia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks whether an object is regalia (see package regalia)",
   "main": "lib/index.js",
   "scripts": {
