@@ -28,7 +28,7 @@
   "devDependencies": {
     "ava": "^0.18.0",
     "regalia": "^1.0.2",
-    "standard": "^8.6.0"
+    "standard": "^9.0.2"
   },
   "dependencies": {
     "is-empty-object": "^1.1.1",
