@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/mightyiam/is-regalia#readme",
   "devDependencies": {
-    "ava": "^1.0.1",
+    "ava": "^2.1.0",
     "regalia": "^1.0.2",
     "standard": "^12.0.1"
   },
